@@ -1,6 +1,6 @@
 # Ejercicios semana 7
 
-Ejercicios realizados en la semana 4 del Bootcamp
+Ejercicios realizados en la semana 7 del Bootcamp
 
 Mauricio Díaz Segura
 
